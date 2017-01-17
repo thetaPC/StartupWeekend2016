@@ -1,1 +1,3 @@
 # StartupWeekend2016
+
+Hello welcome to our game Ice Breaker:Murder Mansion. This game is a text based game where players get to know each other without the weird awkwardness of a real ice breaker. The player is invited into a mansion by a mysterious man named Steve who curiously enough has a very suspicious butler by the name of William Stewart Baxterston. You are invited at random but as the story progresses there is a murder that happens in the mansion the players must find and turn them into the police if the players correctly finds the killer then the players win the game but if the players incorrectly choose the killer the police officer will not take anyone away and instead will just leave and the players will lose the game.   
